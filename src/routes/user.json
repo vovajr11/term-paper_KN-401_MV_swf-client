@@ -1,0 +1,22 @@
+[
+  {
+    "path": "/home",
+    "label": "Головна",
+    "exact": true
+  },
+  {
+    "path": "/courses",
+    "label": "Курси",
+    "exact": true
+  },
+  {
+    "path": "/user-profile",
+    "label": "Профіль",
+    "exact": true
+  },
+  {
+    "path": "/example",
+    "label": "Example",
+    "exact": true
+  }
+]
